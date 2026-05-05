@@ -24,3 +24,7 @@ This project is designed for learning networking, sockets, and threading in Pyth
 
 ```bash
 python3 port_scanner.py <target> <start_port> <end_port>
+
+## ⭐ Support
+
+If you found this useful, consider giving the repo a star ⭐
